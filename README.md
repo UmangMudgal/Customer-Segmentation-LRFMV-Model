@@ -24,7 +24,7 @@ In response to the need for improved customer segmentation and business insights
 
     - After the application of LRFMV Analysis, we employ the K-Means clustering algorithm to group customers into meaningful segments. The choice of the optimal number of clusters is made through a rigorous evaluation process. We utilize the Elbow method and Silhouette score to determine the most suitable number of clusters.
 
-
+** **
 # Key Term Defination 
 
 **1. Recency (R):**
@@ -42,4 +42,13 @@ In response to the need for improved customer segmentation and business insights
 **5. Volume (V):**
    - **Definition:** Volume, also introduced in the LRFMV model, evaluates the volume or quantity of a customer's purchases. It considers the quantity of items bought or the scale of transactions and relates to the Profitablity.
 
+** **
 
+# Segmentation Description of Classes
+| Recency  | Frequency | Monetary | Length | Volume | Description |
+| -------- | --------- | -------- | ------ | ------ | ----------- |
+| High     | Low       | Low      | Low    | Low    | One timer Customer: Customers who have purchased product long time ago and their frequency and length of association is also low.      |
+| Low      | High      | High     | High   | Low    | Loyal Customers: Customer who are actively engaged in purchasing from the very long periods, although they are buying lesser quantity of products.           |
+| Low      | High      | High     | High   | High   | VIP Customer: Customers who have long relation with the company and their spending power and volume of purchased product is high.           |
+| High     | High	     | High	    | Low	 | High   | Past Transactional Driven Customer: Customers who have purchased good amoutn of product but in recent time they have not purchased anything.  |         |
+| Low	     | Low       | Low	    | Low	 | Low    | New Customer: Customers who have purchased product recently and their volume of purchasing is also low.|
