@@ -52,4 +52,7 @@ In response to the need for improved customer segmentation and business insights
 | Past Transactional Driven Customer   | High     | High      | High     | Low    | High   | Customers who have made a significant number of purchases but have not bought anything recently.                                      |
 | New Customer                         | Low      | Low       | Low      | Low    | Low    | Customers who have recently made a purchase with a low volume of purchases.                                                            |
 
+** **
+# Refernce
+Mahfuza, R., Islam, N., Toyeb, M., Emon, M. A. F., Chowdhury, S. A., & Alam, M. G. R. (2022). LRFMV: An efficient customer segmentation model for superstores. Plos one, 17(12), e0279262.
 
