@@ -47,8 +47,10 @@ In response to the need for improved customer segmentation and business insights
 # Segmentation Description of Classes
 | Recency  | Frequency | Monetary | Length | Volume | Description |
 | -------- | --------- | -------- | ------ | ------ | ----------- |
-| High     | Low       | Low      | Low    | Low    | One timer Customer: Customers who have purchased product long time ago and their frequency and length of association is also low.      |
-| Low      | High      | High     | High   | Low    | Loyal Customers: Customer who are actively engaged in purchasing from the very long periods, although they are buying lesser quantity of products.           |
-| Low      | High      | High     | High   | High   | VIP Customer: Customers who have long relation with the company and their spending power and volume of purchased product is high.           |
-| High     | High	     | High	    | Low	 | High   | Past Transactional Driven Customer: Customers who have purchased good amoutn of product but in recent time they have not purchased anything.  |         |
-| Low	     | Low       | Low	    | Low	 | Low    | New Customer: Customers who have purchased product recently and their volume of purchasing is also low.|
+| High     | Low       | Low      | Low    | Low    | One-time Customer: Customers who made a purchase a long time ago with low frequency, monetary value, and product volume.      |
+| Low      | High      | High     | High   | Low    | Loyal Customers: Customers who have maintained a long-term relationship with the company, although they purchase a lower quantity of products.           |
+| Low      | High      | High     | High   | High   | VIP Customer: Customers with a long history with the company, high spending power, and a high volume of purchased products.           |
+| High     | High      | High     | Low    | High   | Past Transactional-Driven Customer: Customers who have made a significant number of purchases but have not bought anything recently.  |
+| Low      | Low       | Low      | Low    | Low    | New Customer: Customers who recently made a purchase with a low volume of purchases. |
+
+
