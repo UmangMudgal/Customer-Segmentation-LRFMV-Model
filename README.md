@@ -47,6 +47,8 @@ In response to the need for improved customer segmentation and business insights
 # Segmentation Description of Classes
 # Segmentation Description of Classes
 
+# Segmentation Description of Classes
+
 | Customer Class                       | Recency  | Frequency | Monetary | Length | Volume | Description                                                                                                                            |
 | ----------------------------------- | -------- | --------- | -------- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | One-time Customer                    | High     | Low       | Low      | Low    | Low    | Customers who made a purchase a long time ago, with low frequency, monetary value, and product volume.                                |
@@ -54,4 +56,5 @@ In response to the need for improved customer segmentation and business insights
 | VIP Customer                         | Low      | High      | High     | High   | High   | Customers with a long relationship with the company, high spending power, and a high volume of purchased products.                   |
 | Past Transactional Driven Customer   | High     | High      | High     | Low    | High   | Customers who have made a significant number of purchases but have not bought anything recently.                                      |
 | New Customer                         | Low      | Low       | Low      | Low    | Low    | Customers who have recently made a purchase with a low volume of purchases.                                                            |
+
 
