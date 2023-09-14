@@ -1,5 +1,3 @@
-# Customet-Segmentation-LRFMV-Model
-
 # Problem Statement : Customer Segmentation for Business Insights
 
 # Background 
