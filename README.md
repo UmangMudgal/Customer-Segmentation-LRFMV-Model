@@ -45,9 +45,6 @@ In response to the need for improved customer segmentation and business insights
 ** **
 
 # Segmentation Description of Classes
-# Segmentation Description of Classes
-
-# Segmentation Description of Classes
 
 | Customer Class                       | Recency  | Frequency | Monetary | Length | Volume | Description                                                                                                                            |
 | ----------------------------------- | -------- | --------- | -------- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
