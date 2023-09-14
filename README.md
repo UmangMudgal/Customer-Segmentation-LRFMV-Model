@@ -45,12 +45,13 @@ In response to the need for improved customer segmentation and business insights
 ** **
 
 # Segmentation Description of Classes
-| Recency  | Frequency | Monetary | Length | Volume | Description |
-| -------- | --------- | -------- | ------ | ------ | ----------- |
-| High     | Low       | Low      | Low    | Low    | One-time Customer: Customers who made a purchase a long time ago with low frequency, monetary value, and product volume.      |
-| Low      | High      | High     | High   | Low    | Loyal Customers: Customers who have maintained a long-term relationship with the company, although they purchase a lower quantity of products.           |
-| Low      | High      | High     | High   | High   | VIP Customer: Customers with a long history with the company, high spending power, and a high volume of purchased products.           |
-| High     | High      | High     | Low    | High   | Past Transactional-Driven Customer: Customers who have made a significant number of purchases but have not bought anything recently.  |
-| Low      | Low       | Low      | Low    | Low    | New Customer: Customers who recently made a purchase with a low volume of purchases. |
+# Segmentation Description of Classes
 
+| Customer Class                       | Recency  | Frequency | Monetary | Length | Volume | Description                                                                                                                            |
+| ----------------------------------- | -------- | --------- | -------- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| One-time Customer                    | High     | Low       | Low      | Low    | Low    | Customers who made a purchase a long time ago, with low frequency, monetary value, and product volume.                                |
+| Loyal Customers                      | Low      | High      | High     | High   | Low    | Customers who are actively engaged in purchasing for extended periods, even though they buy a lower quantity of products.             |
+| VIP Customer                         | Low      | High      | High     | High   | High   | Customers with a long relationship with the company, high spending power, and a high volume of purchased products.                   |
+| Past Transactional Driven Customer   | High     | High      | High     | Low    | High   | Customers who have made a significant number of purchases but have not bought anything recently.                                      |
+| New Customer                         | Low      | Low       | Low      | Low    | Low    | Customers who have recently made a purchase with a low volume of purchases.                                                            |
 
